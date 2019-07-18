@@ -4,7 +4,7 @@ A iOS app that allows users to search for the weather today in different locatio
 
 **App**
 
-![APP GIF](SportsNews.gif)
+![APP_GIF](APP_GIF.gif)
 
 ---
 

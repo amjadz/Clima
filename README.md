@@ -11,8 +11,8 @@ A iOS app that allows users to search for the weather today in different locatio
 ## Features
 
 - Used Swift to program the functionality.
-- Used Alamofire coccapod to get the network response.
-- Used SwifyJSON to parse the JSON object.
+- Used Alamofire cocoapod to get the network response.
+- Used SwifyJSON cocoapod to parse the JSON object.
 - Used the OpenWeatherMap api to get weather data.
 ---
 
